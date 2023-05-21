@@ -8,3 +8,6 @@ The WLP4 Compiler is designed to process the WLP4 language, which is a simplifie
 **Parsing:** The compiler employs the SLR(1) parsing algorithm for parsing WLP4 programs. This algorithm analyzes the structure of the source code based on the defined grammar rules, ensuring syntactic correctness.
 
 **Code Generation:** The compiler generates code from WLP4 to the MIPS assembly language, which is the instruction set architecture used by many processors. The code generation phase converts the high-level WLP4 code into low-level instructions that can be executed by the MIPS architecture.
+
+
+For more information about the WLP4 language and its usage, refer to https://student.cs.uwaterloo.ca/~cs241/wlp4/WLP4tutorial.html.
